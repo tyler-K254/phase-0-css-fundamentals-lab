@@ -2,4 +2,33 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  text-align: center;
+}
+
+h1 {
+  
+}
+
+a{
+  padding: 10px;
+}
+
+figcaption{
+  font-size: 80%;
+}
+
+section#featured-property p{
+  text-align: center;
+  width: 800px;
+  margin: auto;
+  padding: 15px 10px;
+}
+
+section div{
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+  padding-bottom: 20px;
+  margin-top: 30px;
 }
